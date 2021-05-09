@@ -1,0 +1,7 @@
+#Texture Type
+
+#Item type
+
+#Replacement texture/model
+
+#Rules
