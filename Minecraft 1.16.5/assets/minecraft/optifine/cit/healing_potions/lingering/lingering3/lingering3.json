@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "./lingering_overlay3",
+        "layer1": "./lingering_bottle3"
+    }
+}
