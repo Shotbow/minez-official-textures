@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures": 
+	{
+		"layer0": "./pluvias_hail_empty",
+		"layer1": "./pluvias_hail_overlay",
+        "layer2": "./pluvias_hail_bottle"
+    }
+}

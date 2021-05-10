@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures": 
+	{
+		"layer0": "./therums_might_empty",
+		"layer1": "./therums_might_overlay",
+        "layer2": "./therums_might_bottle"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "item/generated",
+    "textures": {
+		"layer0": "./suspicious_brew_empty",
+        "layer1": "./suspicious_brew_overlay",
+        "layer2": "./suspicious_brew_bottle"
+    }
+}
