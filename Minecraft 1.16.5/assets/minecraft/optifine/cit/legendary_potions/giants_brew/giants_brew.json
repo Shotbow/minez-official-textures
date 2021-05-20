@@ -1,41 +1,39 @@
 {
-    "parent": "item/generated",
-    "textures": 
-	{
-        "layer0": "./giants_brew_overlay",
-        "layer1": "./giants_brew_bottle"
-    },
-    "display": 
-	{
-        "ground": 
-		{
-            "rotation": [ 0, 0, 0 ],
-            "translation": [ 0, 4, 0],
-            "scale":[ 1, 1, 1 ]
-        },
-        "thirdperson_righthand": 
-		{
-            "rotation": [ 0, 0, 0 ],
-            "translation": [ -0.25, 4.5, 1 ],
-            "scale": [ 0.75, 0.75, 0.75 ]
-        },
-		"thirdperson_lefthand": 
-		{
-            "rotation": [ 0, 0, 0 ],
-            "translation": [ -0.25, 4.5, 1 ],
-            "scale": [ 0.75, 0.75, 0.75 ]
-        },
-        "firstperson_righthand": 
-		{
-            "rotation": [ 0, -90, 25 ],
-            "translation": [ 1, 4, 1],
-            "scale": [ 0.8, 0.8, 0.8 ]
-        },
-        "firstperson_lefthand": 
-		{
-            "rotation": [ 0, 90, -25 ],
-            "translation": [ 1, 4, 1],
-            "scale": [ 0.8, 0.8, 0.8 ]
-        }
-    }
+	"credit": "Model by Daniel Rose",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "./giants_brew_overlay",
+		"layer1": "./giants_brew_bottle"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [-0.25, 4.5, 1],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"thirdperson_lefthand": {
+			"translation": [-0.25, 4.5, 1],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, 25],
+			"translation": [1, 4, 1],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, -25],
+			"translation": [1, 4, 1],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"ground": {
+			"translation": [0, 2.75, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"gui": {
+			"translation": [0, 0.75, 0],
+			"scale": [1.1, 1.1, 1]
+		},
+		"fixed": {
+			"scale": [1.25, 1.25, 1]
+		}
+	}
 }
