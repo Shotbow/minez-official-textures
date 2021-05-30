@@ -2,7 +2,6 @@
     "parent": "optifine/defaults/3d_book",
 	"textures": 
 	{
-        "0": "./alpha_book",
-		"1": "optifine/defaults/sharpness_particles"
+        "0": "./alpha_book"
 	}
 }

@@ -1,0 +1,8 @@
+{
+    "parent": "optifine/defaults/3d_book",
+	"textures": 
+	{
+        "0": "./seal_of_space_book",
+		"1": "./seal_of_space_particles"
+	}
+}
