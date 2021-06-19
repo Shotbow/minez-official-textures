@@ -2,7 +2,7 @@
 	"credit": "Model by Daniel Rose",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "item/bow"
+		"layer0": "./item/bow"
 	},
 	"overrides": [
 		{
