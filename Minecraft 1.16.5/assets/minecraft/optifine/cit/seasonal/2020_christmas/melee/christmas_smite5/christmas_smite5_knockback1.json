@@ -1,18 +1,7 @@
 {
-    "parent": "item/generated",
-	"textures": {
-        "layer0": "./christmas_smite5_knockback1"
-	},
-    "display": {
-        "thirdperson_righthand": {
-            "rotation": [ 0, -90, 55 ],
-            "translation": [ 0, 2, 0.5 ],
-            "scale": [ 0.60, 0.60, 0.60 ]
-        },
-        "thirdperson_lefthand": {
-            "rotation": [ 0, 90, -55 ],
-            "translation": [ 0, 4.0, 0.5 ],
-            "scale": [ 0.65, 0.65, 0.65 ]
-        }
-    }
+    "parent": "optifine/defaults/3d_book",
+	"textures": 
+	{
+        "0": "./christmas_smite5_knockback1"
+	}
 }
