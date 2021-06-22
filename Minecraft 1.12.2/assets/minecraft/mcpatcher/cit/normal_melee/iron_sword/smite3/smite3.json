@@ -3,7 +3,7 @@
     "textures": 
 	{
         "layer0": "./smite3",
-        "layer1": "optifine/defaults/sword_shine_16"
+        "layer1": "./sword_shine_16"
     },
 	"display": 
 	{
