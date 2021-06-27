@@ -9,7 +9,7 @@ Provides a Vanilla+ resource pack for the MineZ gamemode, relying heavily on Opt
 ## Addon Packs
 With each release there are additional packs aside from the main one. These addon packs modify the main pack or the MineZ experience. The goal of these is to provide additional customization for the user. To use any of the addon packs, follow the installation instructions for the main pack, and then set it above the main pack in the list of active resource packs.
 
-# Available Addon Packs
+### Available Addon Packs
 - Fishing Pack: Changes the water splash texture from blue to yellow, to make fishing splashes much more visible.
 - Improved Paintings Pack: Significantly improves the quality of all paintings.
 - Food Overlay Pack: 
