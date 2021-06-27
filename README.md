@@ -13,9 +13,9 @@ With each release there are additional packs aside from the main one. These addo
 - Fishing Pack: Changes the water splash texture from blue to yellow, to make fishing splashes much more visible.
 - Improved Paintings Pack: Significantly improves the quality of all paintings.
 - Food Overlay Pack: 
-- Inventory Pack: 
+- Inventory Pack: Adds an underlay to inventories for faster item sorting.
 - Vanilla Override Pack: 
-- Red Sandstone Slab Pack: 
+- Red Sandstone Slab Pack: Makes the bottom of red sandstone slabs less red.
 
 ## Modifying the Pack
 {info about how to change textures in the pack, and how to override textures in the pack by creating a copy of the pack}
