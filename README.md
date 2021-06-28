@@ -9,13 +9,15 @@ Provides a Vanilla+ resource pack for the MineZ gamemode, relying heavily on Opt
 ## Addon Packs
 With each release there are additional packs aside from the main one. These addon packs modify the main pack or the MineZ experience. The goal of these is to provide additional customization for the user. To use any of the addon packs, follow the installation instructions for the main pack, and then set it above the main pack in the list of active resource packs.
 
+Addon packs are universally compatibile unless otherwise specified.
+
 ### Available Addon Packs
 - Fishing Pack: Changes the water splash texture from blue to yellow, to make fishing splashes much more visible.
+- Food Overlay Pack: Overlays the total hunger/saturation value of most MineZ foods. (Comes in 2 variants depending on where the overlay shows.)
 - Improved Paintings Pack: Significantly improves the quality of all paintings.
-- Food Overlay Pack: 
 - Inventory Pack: Adds an underlay to inventories for faster item sorting.
-- Vanilla Override Pack: 
 - Red Sandstone Slab Pack: Makes the bottom of red sandstone slabs less red.
+- Vanilla Override Pack: Sets all normal items to their vanilla 1.12 textures.
 
 ## Modifying the Pack
 {info about how to change textures in the pack, and how to override textures in the pack by creating a copy of the pack}
