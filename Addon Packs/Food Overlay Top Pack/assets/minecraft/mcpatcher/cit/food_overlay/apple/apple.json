@@ -1,0 +1,6 @@
+{
+    "parent": "item/apple",
+    "textures": {
+		"layer1": "overlays/apple_overlay.png"
+    }
+}

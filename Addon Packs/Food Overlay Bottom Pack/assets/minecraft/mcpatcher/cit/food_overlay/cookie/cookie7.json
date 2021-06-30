@@ -1,0 +1,6 @@
+{
+    "parent": "item/cookie",
+    "textures": {
+		"layer1": "overlays/cookie7_overlay.png"
+    }
+}

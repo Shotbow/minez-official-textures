@@ -1,0 +1,6 @@
+{
+    "parent": "item/cooked_beef",
+    "textures": {
+		"layer1": "overlays/cooked_beef_overlay.png"
+    }
+}

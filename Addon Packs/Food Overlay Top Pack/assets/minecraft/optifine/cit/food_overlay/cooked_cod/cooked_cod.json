@@ -1,0 +1,6 @@
+{
+    "parent": "item/cooked_cod",
+    "textures": {
+		"layer1": "overlays/cooked_cod_overlay.png"
+    }
+}

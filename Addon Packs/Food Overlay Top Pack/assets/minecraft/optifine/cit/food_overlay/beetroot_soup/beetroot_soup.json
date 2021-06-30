@@ -1,0 +1,6 @@
+{
+    "parent": "item/beetroot_soup",
+    "textures": {
+		"layer1": "overlays/beetroot_soup_overlay.png"
+    }
+}

@@ -1,0 +1,6 @@
+{
+   "pack": {
+      "pack_format": 6,
+      "description": "Adds an underlay to inventories for faster item sorting."
+   }
+}

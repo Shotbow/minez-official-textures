@@ -1,0 +1,6 @@
+{
+    "parent": "item/cod",
+    "textures": {
+		"layer1": "overlays/cod_overlay.png"
+    }
+}

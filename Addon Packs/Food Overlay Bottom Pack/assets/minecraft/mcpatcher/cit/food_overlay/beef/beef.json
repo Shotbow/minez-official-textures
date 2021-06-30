@@ -1,0 +1,6 @@
+{
+    "parent": "item/beef",
+    "textures": {
+		"layer1": "overlays/beef_overlay.png"
+    }
+}

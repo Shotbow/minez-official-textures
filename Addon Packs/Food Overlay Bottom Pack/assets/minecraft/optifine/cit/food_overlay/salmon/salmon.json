@@ -1,0 +1,6 @@
+{
+    "parent": "item/salmon",
+    "textures": {
+		"layer1": "overlays/salmon_overlay.png"
+    }
+}

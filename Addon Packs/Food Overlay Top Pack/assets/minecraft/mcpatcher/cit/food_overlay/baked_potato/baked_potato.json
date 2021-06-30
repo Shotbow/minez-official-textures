@@ -1,0 +1,6 @@
+{
+    "parent": "item/baked_potato",
+    "textures": {
+		"layer1": "overlays/baked_potato_overlay.png"
+    }
+}

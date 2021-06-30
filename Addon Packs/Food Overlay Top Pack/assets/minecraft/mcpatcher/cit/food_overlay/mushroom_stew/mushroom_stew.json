@@ -1,0 +1,6 @@
+{
+    "parent": "item/mushroom_stew",
+    "textures": {
+		"layer1": "overlays/mushroom_stew_overlay.png"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "item/golden_carrot",
+    "textures": {
+		"layer1": "overlays/golden_carrot_overlay.png"
+    }
+}

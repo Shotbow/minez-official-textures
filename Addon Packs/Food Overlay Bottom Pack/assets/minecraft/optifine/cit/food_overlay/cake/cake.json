@@ -1,0 +1,6 @@
+{
+    "parent": "item/cake",
+    "textures": {
+		"layer1": "overlays/cake_overlay.png"
+    }
+}

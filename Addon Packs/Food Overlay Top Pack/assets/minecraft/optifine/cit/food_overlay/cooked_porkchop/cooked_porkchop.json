@@ -1,0 +1,6 @@
+{
+    "parent": "item/cooked_porkchop",
+    "textures": {
+		"layer1": "overlays/cooked_porkchop_overlay.png"
+    }
+}

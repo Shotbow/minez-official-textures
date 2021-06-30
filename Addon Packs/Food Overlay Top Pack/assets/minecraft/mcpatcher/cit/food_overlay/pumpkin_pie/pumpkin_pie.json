@@ -1,0 +1,6 @@
+{
+    "parent": "item/pumpkin_pie",
+    "textures": {
+		"layer1": "overlays/pumpkin_pie_overlay.png"
+    }
+}

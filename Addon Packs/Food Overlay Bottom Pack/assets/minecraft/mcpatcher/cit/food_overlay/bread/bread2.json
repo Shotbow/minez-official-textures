@@ -1,0 +1,6 @@
+{
+    "parent": "item/bread",
+    "textures": {
+		"layer1": "overlays/bread2_overlay.png"
+    }
+}
