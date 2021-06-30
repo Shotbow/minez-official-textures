@@ -3,7 +3,7 @@
   {
     "interpolate": false,
     "width": 256,
-    "height": 128,
+    "height": 256,
     "frametime": 2,
     "frames": 
 	[

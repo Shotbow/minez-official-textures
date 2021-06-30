@@ -1,5 +1,5 @@
 {
-    "parent": "optifine/defaults/3d_book_open",
+    "parent": "item/3d_book_open",
 	"textures": 
 	{
         "0": "./seal_of_entropy_book",

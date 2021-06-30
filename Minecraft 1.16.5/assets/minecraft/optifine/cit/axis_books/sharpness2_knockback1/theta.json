@@ -1,5 +1,5 @@
 {
-    "parent": "optifine/defaults/3d_book",
+    "parent": "item/3d_book",
 	"textures": 
 	{
         "0": "./theta_book"

@@ -2,8 +2,8 @@
 	"credit": "Model by Daniel Rose",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "custom_models/battle_sign",
-		"particle": "custom_models/battle_sign"
+		"0": "models/battle_sign",
+		"particle": "models/battle_sign"
 	},
 	"elements": [
 		{
