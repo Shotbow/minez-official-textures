@@ -20,10 +20,15 @@ Addon packs are universally compatibile unless otherwise specified.
 - Vanilla Override Pack: Sets all normal items to their vanilla 1.12 textures.
 
 ## Modifying the Pack
-{info about how to change textures in the pack, and how to override textures in the pack by creating a copy of the pack}
+To modify the pack, you have 2 options:
+
+- You can unzip the main pack and edit the desired textures/files directly, and using the folder as the pack.
+- You can create a copy of the pack, unzip that, delete everything but the things you want to modify, modify those, and then put that unzipped modified folder above the zipped pack in the texture pack order.
+
+The first option is less work up front, but more work in the future whenever you update the pack. The second option is more work up front, but very little work going forward. It depends how often you plan to update the pack. Whichever way you chose, there are plenty of tutorials online, and you can use the main pack as a template.
 
 ## Server
 Join the Shotbow server at: **play.shotbow.net**
 
 ## Credits
-By RoseFredricks and SealClubber
+By RoseFredricks, SealClubber, and LaukNLoad
