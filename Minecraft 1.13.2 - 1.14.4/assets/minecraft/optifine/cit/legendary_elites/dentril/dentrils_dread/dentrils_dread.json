@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures": 
+	{
+		"layer0": "./dentrils_dread_empty",
+		"layer1": "./dentrils_dread_overlay",
+        "layer2": "./dentrils_dread_bottle"
+    }
+}
