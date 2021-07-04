@@ -1,0 +1,6 @@
+{
+    "parent": "item/cooked_chicken",
+    "textures": {
+		"layer1": "overlays/cooked_chicken_overlay.png"
+    }
+}

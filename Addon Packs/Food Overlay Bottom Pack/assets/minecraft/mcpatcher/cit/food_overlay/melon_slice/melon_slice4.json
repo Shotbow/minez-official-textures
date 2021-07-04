@@ -1,0 +1,6 @@
+{
+    "parent": "item/melon",
+    "textures": {
+		"layer1": "overlays/melon_slice4_overlay.png"
+    }
+}
