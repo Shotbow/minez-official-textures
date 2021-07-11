@@ -1,5 +1,5 @@
-# The Library - MineZ Official Textures
-Provides a Vanilla+ resource pack for the MineZ gamemode, relying heavily on Optifine's CIT system. The pack contains original custom textures for all legendary items, unique items, enchanted items, potions, and more. 
+# The Library - MineZ Official(ish) Textures
+Provides a Vanilla+ resource pack for the MineZ gamemode, relying heavily on Optifine's CIT system. The pack contains original custom textures for almost all legendary items, unique items, enchanted items, potions, and more. 
 
 ## Installation
 1. Download the latest version of the pack from the "Releases" corresponding to your Minecraft version. 
