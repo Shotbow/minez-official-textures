@@ -12,8 +12,10 @@ With each release there are additional packs aside from the main one. These addo
 Addon packs are universally compatibile unless otherwise specified.
 
 ### Available Addon Packs
+- Classic MineZ Textures: Overrides many of the textures with the original ones by Rose and Seal.
 - Fishing Pack: Changes the water splash texture from blue to yellow, to make fishing splashes much more visible.
 - Food Overlay Pack: Overlays the total hunger/saturation value of most MineZ foods. (Comes in 2 variants depending on where the overlay shows.)
+- Glint Reducer: Reduces the strength of the glint on enchanted items and potions by about 50%. _(1.15+ only)_
 - Improved Paintings Pack: Significantly improves the quality of all paintings. _(Meme pack, not an official pack)_
 - Inventory Pack: Adds an underlay to inventories for faster item sorting.
 - Red Sandstone Slab Pack: Makes the bottom of red sandstone slabs less red.
