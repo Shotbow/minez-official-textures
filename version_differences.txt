@@ -1,0 +1,15 @@
+Version Differences From 1.16.5:
+1.12.2: 
+  - nbt.Enchantments.* need to be nbt.ench.
+  - Enchantments need to be numeric ids instead of namespace ids
+  - Trapped chest CEM doesn’t work, needs to be flat texture
+  - Enchantment glint is grayscale
+  - “optifine” folder is called “mcpatcher”
+  - texture.bow = texture.bow_standby
+
+1.13.2/1.14.4: (safe to copy cit folder from 1.16.5)
+  - Trapped chest CEM doesn’t work, use 1.12 texture
+  - Enchantment glint Texture is the same as 1.12
+
+1.15.2: (safe to copy cit folder from 1.16.5)
+  - Nothing aside from pack.mcmeta

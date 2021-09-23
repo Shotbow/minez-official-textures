@@ -1,0 +1,7 @@
+{
+    "parent": "item/stick",
+    "textures": 
+    {
+		"layer0": "overlay/spawn_towns/geuten.png"
+    }
+}
