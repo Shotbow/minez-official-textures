@@ -1,0 +1,7 @@
+{
+    "parent": "item/3d_book",
+	"textures": 
+	{
+        "0": "./beta_book"
+	}
+}

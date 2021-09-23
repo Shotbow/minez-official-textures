@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "./eillom_ale_overlay",
+        "layer1": "./eillom_ale_bottle"
+    }
+}

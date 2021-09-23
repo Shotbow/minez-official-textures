@@ -1,0 +1,8 @@
+{
+    "parent": "item/3d_book_open",
+	"textures": 
+	{
+        "0": "./seal_of_gravity_book",
+		"1": "./seal_of_gravity_particles"
+	}
+}

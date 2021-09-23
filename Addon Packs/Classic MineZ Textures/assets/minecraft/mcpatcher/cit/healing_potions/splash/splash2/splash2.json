@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "./splash_overlay2",
+        "layer1": "./splash_bottle2"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "item/3d_book",
+	"textures": 
+	{
+        "0": "./christmas_smite5_knockback1"
+	}
+}

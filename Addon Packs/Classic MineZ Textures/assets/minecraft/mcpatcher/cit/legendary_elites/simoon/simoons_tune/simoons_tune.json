@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures": 
+	{
+        "layer0": "./simoons_tune_empty",		
+        "layer1": "./simoons_tune_overlay",
+        "layer2": "./simoons_tune_bottle"
+    }
+}

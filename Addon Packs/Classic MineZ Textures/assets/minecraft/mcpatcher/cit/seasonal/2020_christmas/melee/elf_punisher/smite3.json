@@ -1,0 +1,8 @@
+{
+    "parent": "item/iron_sword",
+    "textures": 
+	{
+        "layer0": "./smite3",
+        "layer1": "overlay/sword_glimmer_16"
+    }
+}
