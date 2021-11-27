@@ -1,4 +1,4 @@
-# The Library - MineZ Official(ish) Textures
+# Official MineZ Resource Pack
 Provides a Vanilla+ resource pack for the MineZ gamemode, relying heavily on Optifine's CIT system. The pack contains original custom textures for almost all legendary items, unique items, enchanted items, potions, and more. 
 
 ## Installation
@@ -29,11 +29,20 @@ To modify the pack, you have 2 options:
 
 The first option is less work up front, but more work in the future whenever you update the pack. The second option is more work up front, but very little work going forward. It depends how often you plan to update the pack. Whichever way you chose, there are plenty of tutorials online, and you can use the main pack as a template.
 
+## Contributing
+If you would like to contribute your own textures to the Official MineZ Resource Pack, you can read our contributing guidelines [here](https://github.com/Shotbow/minez-official-textures/blob/main/CONTRIBUTING.md).
+
 ## Server
 Join the Shotbow server at: **play.shotbow.net**
 
 ## Credits
-By RoseFredricks, SealClubber, and LaukNLoad
+### Resource Pack Creators
+- RoseFredricks
+- SealClubber
+- LaukNLoad
+
+### Contributors
+- senoc44
 
 ## License
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
