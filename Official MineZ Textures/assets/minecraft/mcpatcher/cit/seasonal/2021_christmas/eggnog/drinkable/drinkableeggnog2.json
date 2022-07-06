@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "./drinkable_eggnog_overlay2",
+		"layer1": "./drinkable_eggnog_bottle2"
+    }
+}
