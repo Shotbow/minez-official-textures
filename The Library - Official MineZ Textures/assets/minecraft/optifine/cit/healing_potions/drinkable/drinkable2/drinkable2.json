@@ -1,7 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "./drinkable_overlay2",
-        "layer1": "./drinkable_bottle2"
-    }
-}

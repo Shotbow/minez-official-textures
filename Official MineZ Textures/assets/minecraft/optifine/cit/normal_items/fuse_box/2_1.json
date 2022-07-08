@@ -1,0 +1,6 @@
+{
+  "parent": "./fusebox2",
+  "textures": {
+    "number": "./2"
+  }
+}
